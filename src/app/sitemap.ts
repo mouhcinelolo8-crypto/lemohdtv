@@ -1,7 +1,8 @@
 import { MetadataRoute } from 'next';
 
+export const dynamic = 'force-static';
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://lemotv.in'; // Replace with actual production domain
+  const baseUrl = 'https://lemohdtv.us'; // Replace with actual production domain
 
   const routes = [
     '',
