@@ -24,7 +24,7 @@ export default function ContactPage() {
           
           <div style={{ marginTop: '3rem', paddingTop: '2rem', borderTop: '1px solid rgba(255,255,255,0.1)' }}>
             <h3>Email Support</h3>
-            <p className="text-dim" style={{ marginTop: '1rem' }}><a href="mailto:contact@lemotv.in">contact@lemotv.in</a></p>
+            <p className="text-dim" style={{ marginTop: '1rem' }}><a href="mailto:contact@lemohdtv.us">contact@lemohdtv.us</a></p>
           </div>
         </div>
       </div>

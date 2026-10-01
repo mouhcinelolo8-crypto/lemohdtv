@@ -24,7 +24,7 @@ export default function FAQ() {
               <svg width="24" height="24" fill="none" stroke="currentColor" strokeWidth="2.5" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" /></svg>
             </summary>
             <p className="text-dim">
-              The only official LEMO TV website is lemotv.in. Other domains such as lemo-tv.io, lemotvofficial.com or lemotv-tv.com are not affiliated with us — for genuine service and support, always use lemotv.in.
+              Yes, this is the official LEMO TV website. Please beware of fake copies and use this site for genuine service and support.
             </p>
           </details>
           <details className="faq__item" name="faq">
@@ -33,7 +33,7 @@ export default function FAQ() {
               <svg width="24" height="24" fill="none" stroke="currentColor" strokeWidth="2.5" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" /></svg>
             </summary>
             <p className="text-dim">
-              Yes. LEMO TV is a legitimate IPTV provider trusted by thousands of viewers, with instant activation, anti-freeze premium servers and 24/7 support. Order only through the official site lemotv.in to avoid fake copies.
+              Yes. LEMO TV is a legitimate IPTV provider trusted by thousands of viewers, with instant activation, anti-freeze premium servers and 24/7 support. Order only through the official site to avoid fake copies.
             </p>
           </details>
           <details className="faq__item" name="faq">

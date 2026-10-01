@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: "Events & Updates — Live Sports Feed — LEMO TV (lemotv.in)",
-  description: "LEMO TV (lemotv.in) is the official premium IPTV service — 18,000+ live channels. Watch live sports, UFC, NFL, NBA, NHL, and PPV events on any device.",
+  title: "Events & Updates — Live Sports Feed — LEMO TV",
+  description: "LEMO TV is the official premium IPTV service — 18,000+ live channels. Watch live sports, UFC, NFL, NBA, NHL, and PPV events on any device.",
 };
 
 export default function EventsPage() {

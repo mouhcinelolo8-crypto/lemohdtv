@@ -44,7 +44,7 @@ export default function Footer() {
         </div>
 
         <div className="footer__bar">
-          <p>© {new Date().getFullYear()} LEMO TV. Official website: lemotv.in — beware of fake copies.</p>
+          <p>© {new Date().getFullYear()} LEMO TV. All rights reserved.</p>
           <div className="row gap footer__legal">
             <Link href="/terms-of-service">Terms</Link>
             <span>·</span>

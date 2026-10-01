@@ -17,7 +17,7 @@ if (!fs.existsSync('public/_next/static')) fs.mkdirSync('public/_next/static');
 if (!fs.existsSync('public/_next/static/media')) fs.mkdirSync('public/_next/static/media');
 
 urls.forEach(url => {
-  const fullUrl = 'https://lemotv.in' + url;
+  const fullUrl = 'https://lemohdtv.us' + url;
   const destPath = path.join('public', url.replace(/\//g, path.sep));
   const dir = path.dirname(destPath);
   if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
